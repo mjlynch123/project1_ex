@@ -3,7 +3,6 @@ var btn = document.getElementById("submit");
 var bars = document.getElementById("bars");
 
 var sgAPIKEY = "MzIxNzgxMjl8MTY3Nzg4MDY0MS4yODM0NzQ3";
-var secret = "e136e3e8274438c3d1d3d9ace84ccc7c9de84832c86cc50234bfc0b0a38fdf6e";
 
 var barData = []; // All the data for bars will go here
 
